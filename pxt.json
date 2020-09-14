@@ -1,0 +1,22 @@
+{
+    "name": "school-ws",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "kittenwifi": "github:kittenbot/pxt-kittenwifi#v0.2.4",
+        "weatherbit": "github:sparkfun/pxt-weather-bit#v0.0.15"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
